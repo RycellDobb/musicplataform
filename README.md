@@ -1,14 +1,14 @@
-#Información General:
+# Información General:
 
 El proyecto musicplataform gestiona la información relacionada con los artistas y canciones, y a los usuarios se les permitirá acceder a una suscripción para poder crear una lista de reproducción en la cual podrán agregar sus canciones favoritas. .
 
-#Technologies
+# Technologies
 
 * Java
 * Spring Boot
 * MariaDB 
 
-#Instalación
+# Instalación
 
 *Clona el repositorio en tu máquina local.
 
@@ -36,7 +36,7 @@ El proyecto musicplataform gestiona la información relacionada con los artistas
 Nota: Los usuarios con el rol de ADMIN pueden acceder a todos los servicios
 
 
-#Colaboración y Desarrollo
+# Colaboración y Desarrollo
 
 Universidad Nacional de Cajamarca
 
